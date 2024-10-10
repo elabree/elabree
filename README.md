@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Im am interested in pinball technology. Both real and virtual machines.
+I like to play a bit, and do small repairs (only for my own machine).
+Also built a virtual cabinet wit VPX, Pinscape controller and Pin2DMD / ZeDMD.
+
+I am mostly interested in learning how to do stuff. Usually I have more idea's than actual results.
+
 <!--
 **elabree/elabree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
